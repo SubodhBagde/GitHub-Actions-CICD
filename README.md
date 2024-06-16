@@ -6,7 +6,7 @@
 
 </br >
 
-As soon as any commit is made to the **index.html** file it runs **static.yml** file which involves Simple workflow for deploying static content to GitHub Pages.
+As soon as any commit is made to this repo file it runs **static.yml** file which involves Simple workflow for deploying static content to GitHub Pages.
 
 </br >
 
